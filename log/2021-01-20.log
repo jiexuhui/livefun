@@ -1,0 +1,9 @@
+[LIVEFUN]2021/01/20 - 17:01:37.665	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/20 - 17:01:37.705	[31merror[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/20 - 17:01:37.705	[33mwarn[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/20 - 17:03:23.426	[31merror[0m	MySQL启动异常	{"err": "Error 1049: Unknown database 'liveFun'"}
+[LIVEFUN]2021/01/20 - 17:04:27.436	[31merror[0m	MySQL启动异常	{"err": "Error 1049: Unknown database 'liveFun'"}
+[LIVEFUN]2021/01/20 - 17:05:02.283	[34minfo[0m	register table success
+[LIVEFUN]2021/01/20 - 17:05:02.343	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/20 - 17:05:28.185	[34minfo[0m	register table success
+[LIVEFUN]2021/01/20 - 17:05:28.329	[34minfo[0m	server run success on 	{"address": ":8888"}

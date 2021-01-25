@@ -1,0 +1,67 @@
+[LIVEFUN]2021/01/25 - 09:45:04.943	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 09:45:04.985	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 09:46:30.572	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 09:46:30.621	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 09:47:12.277	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 09:47:12.351	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 09:47:27.227	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 09:47:27.300	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:22:10.268	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:22:10.339	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:29:01.458	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:29:01.523	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:29:25.492	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:29:25.543	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:40:51.954	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:40:52.010	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:41:16.213	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:41:16.278	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 10:57:18.077	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 10:57:18.161	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 11:00:05.684	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 11:00:05.771	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 11:01:01.901	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 11:01:01.980	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 11:01:14.043	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 11:01:14.094	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 11:23:28.986	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 11:23:29.082	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 14:04:51.900	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 14:04:51.980	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 14:50:04.286	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 14:50:04.307	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 15:13:21.855	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 15:13:21.881	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 15:32:21.251	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 15:32:21.310	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 15:37:45.891	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 15:37:45.974	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 15:43:12.547	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 15:43:12.596	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 15:44:18.724	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 15:44:18.788	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 18:11:59.770	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 18:11:59.836	[34minfo[0m	use middleware logger
+[LIVEFUN]2021/01/25 - 18:11:59.836	[34minfo[0m	use middleware cors
+[LIVEFUN]2021/01/25 - 18:11:59.837	[34minfo[0m	register swagger handler
+[LIVEFUN]2021/01/25 - 18:11:59.881	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 18:12:06.585	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 18:12:06.654	[34minfo[0m	use middleware logger
+[LIVEFUN]2021/01/25 - 18:12:06.654	[34minfo[0m	use middleware cors
+[LIVEFUN]2021/01/25 - 18:12:06.661	[34minfo[0m	register swagger handler
+[LIVEFUN]2021/01/25 - 18:12:06.674	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 18:12:17.860	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 18:12:17.917	[34minfo[0m	use middleware logger
+[LIVEFUN]2021/01/25 - 18:12:17.918	[34minfo[0m	use middleware cors
+[LIVEFUN]2021/01/25 - 18:12:17.926	[34minfo[0m	register swagger handler
+[LIVEFUN]2021/01/25 - 18:12:17.941	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 18:26:04.934	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 18:26:04.955	[34minfo[0m	use middleware logger
+[LIVEFUN]2021/01/25 - 18:26:04.964	[34minfo[0m	use middleware cors
+[LIVEFUN]2021/01/25 - 18:26:04.993	[34minfo[0m	register swagger handler
+[LIVEFUN]2021/01/25 - 18:26:05.019	[34minfo[0m	server run success on 	{"address": ":8888"}
+[LIVEFUN]2021/01/25 - 18:31:29.048	[34minfo[0m	register table success
+[LIVEFUN]2021/01/25 - 18:31:29.325	[34minfo[0m	use middleware logger
+[LIVEFUN]2021/01/25 - 18:31:29.339	[34minfo[0m	use middleware cors
+[LIVEFUN]2021/01/25 - 18:31:29.341	[34minfo[0m	register swagger handler
+[LIVEFUN]2021/01/25 - 18:31:29.343	[34minfo[0m	server run success on 	{"address": ":8888"}
