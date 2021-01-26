@@ -5,14 +5,16 @@ import (
 )
 
 var (
-	LeftSalt  = "live"
+	// LeftSalt LeftSalt
+	LeftSalt  = "live" 
+	// RightSalt RightSalt
 	RightSalt = "fun"
 )
 
 // User struct
 type User struct {
 	Base
-	Userid    uuid.UUID `json:"uuid" gorm:"comment:用户UUID"`
+	Userid    uuid.UUID `json:"userId" gorm:"comment:用户UUID"`
 	Username  string    `json:"userName" gorm:"comment:用户登录名"`
 	Password  string    `json:"-"  gorm:"comment:用户登录密码"`
 	NickName  string    `json:"nickName" gorm:"default:系统用户;comment:用户昵称" `

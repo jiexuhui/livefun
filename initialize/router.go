@@ -1,6 +1,7 @@
 package initialize
 
 import (
+	_ "livefun/docs" // swager docs
 	"livefun/global"
 	"livefun/middleware"
 	"livefun/router"

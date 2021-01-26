@@ -77,10 +77,10 @@ var doc = `{
                 "updatedAt": {
                     "type": "string"
                 },
-                "userName": {
+                "userId": {
                     "type": "string"
                 },
-                "uuid": {
+                "userName": {
                     "type": "string"
                 }
             }
